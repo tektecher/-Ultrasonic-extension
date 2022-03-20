@@ -1,15 +1,3 @@
-pins 
-1- touch_1 = 14
-2- touch_2 = 26
-3- i/o1 = 2
-4- i/o2 = 25
-5- i/o3 = 27
-6- i/o4 = 33
-7- i/o5 = 32 
-8- i/o6 = 35 
-9- SDA = 4
-10- SCL = 5
-
 Blockly.defineBlocksWithJsonArray([
   {
     "type": "ultrasonic_read",
