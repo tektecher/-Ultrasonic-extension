@@ -1,7 +1,7 @@
 ({
     name: "Ultrasonic", // Category Name
     description: "Get distance from HC-SR04p",
-    author: "microBlock",
+    author: "TekTech",
     category: "Sensors",
     version: "1.0.0",
     icon: "/static/icon.png", // Category icon
